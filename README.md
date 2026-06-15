@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Smart Contract Developer
+here are some study projects developed while learning and practicing
 <!--
 **tymna/tymna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
