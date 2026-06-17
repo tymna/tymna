@@ -1,18 +1,16 @@
 Smart contract developer.
 I learn by building, so here you can see some study projects across EVM, ZK, Aztec, Solana.
-#### stack
+#### Stack
 **EVM:** Solidity, Foundry, Hardhat | **ZK & non-EVM:** Noir (Aztec) | TypeScript
-- **Learning:** Next.js, wagmi, viem + app infra (wallets, indexing & data)
-#### study projects
+**Learning now:** fullstack web3 (Next.js, wagmi, viem + app infra (wallets, indexing & data))
+#### Study Projects
 **ZK & privacy**
-- `app` [Private DEX on Aztec](https://github.com/tymna/private-dex-app) — AMM where traders stay private.
-- `app` [ZK Anonymous Airdrop](https://github.com/tymna/fullstack-zk-anonymous-airdrop) — anonymous claims to stealth addresses (ERC-5564).
-- `contracts` [ZK Mixer](https://github.com/tymna/zk-mixer) — Tornado Cash–style mixer in Noir.
+[Private DEX on Aztec](https://github.com/tymna/private-dex-app) (app) — AMM where traders stay private.
+[ZK Anonymous Airdrop](https://github.com/tymna/fullstack-zk-anonymous-airdrop) (app) — anonymous claims to stealth addresses (ERC-5564).
+[ZK Mixer](https://github.com/tymna/zk-mixer) (contracts) — Tornado Cash–style mixer in Noir.
 **DeFi**
-- `app` [VaultScope](https://github.com/tymna/vault) — ERC-4626 vault: viem→Postgres indexer, REST API, Next.js dashboard.
-- `contracts` [DeFi Station](https://github.com/tymna/defi-station) — ERC-4626 vault + GMX funding-fee farming strategy.
-- `contracts` [DEX](https://github.com/tymna/dex) — single-contract DEX, all pools as internal structs, LP tokens as ERC-1155.
+[VaultScope](https://github.com/tymna/vault) (app) — ERC-4626 vault: viem→Postgres indexer, REST API, Next.js dashboard.
+[DeFi Station](https://github.com/tymna/defi-station) (contracts) — ERC-4626 vault + GMX funding-fee farming strategy.
+[DEX](https://github.com/tymna/dex) (contracts) — single-contract DEX, all pools as internal structs, LP tokens as ERC-1155.
 **EVM internals**
-- `contracts` [Inline Assembly NFT Marketplace](https://github.com/tymna/optimized-nft-marketplace) — NFT marketplace in heavy inline assembly, low-level EVM.
-#### Elsewhere
-- LinkedIn: [anastasia-tymchak](https://linkedin.com/in/anastasia-tymchak-597012307)
+[Inline Assembly NFT Marketplace](https://github.com/tymna/optimized-nft-marketplace) (contracts) — NFT marketplace in heavy inline assembly, low-level EVM.
