@@ -1,4 +1,4 @@
-Smart Contract Developer.
+**_Smart Contract Developer._**
 I learn by building, so here you can see some study projects across EVM, ZK, Aztec, Solana.
 #### Stack
 **EVM:** Solidity, Foundry, Hardhat | **ZK & non-EVM:** Noir (Aztec) | TypeScript
