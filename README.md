@@ -5,3 +5,5 @@
 **Fullstack:** [onchain-stripe](https://github.com/tymna/onchain-stripe) ([live](https://onchain-stripe.vercel.app)) — USDC subscriptions on Base, indexer → API → dashboard · [Jar](https://github.com/tymna/jar) — savings jars, factory contracts + Ponder indexer · [Private DEX on Aztec](https://github.com/tymna/private-dex-app) — AMM with private traders
 
 **Contracts:** [DeFi Station](https://github.com/tymna/defi-station) — ERC-4626 vault + GMX v2 strategy · [NFT Marketplace](https://github.com/tymna/optimized-nft-marketplace) — inline assembly · [DEX](https://github.com/tymna/dex) — singleton AMM, ERC-1155 LP · [ZK Mixer](https://github.com/tymna/zk-mixer) — Tornado-style, Noir
+
+**Notes:** [study notes](https://github.com/tymna/notes) — Uniswap, DeFi, EVM, ZK, Aztec, Solana, testing
