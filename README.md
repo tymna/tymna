@@ -1,3 +1,7 @@
-**_Smart Contract Developer._** I learn by building: EVM, ZK (Aztec), Solana, fullstack web3.
+**_Smart Contract Developer._** I learn by building: EVM, ZK (Aztec), Solana, fullstack web3 (contracts → indexer → Postgres → API → Next.js).
 
-**Contracts:** Solidity, Foundry, Yul, Noir, Anchor | **Apps:** TypeScript, Next.js, viem, Hono, PostgreSQL | **Live:** [onchain-stripe](https://onchain-stripe.vercel.app)
+**Stack:** Solidity, Foundry, Yul, Noir, Aztec.nr, Rust/Anchor | TypeScript, Next.js, wagmi, viem, Hono, PostgreSQL, Drizzle, Goldsky, Ponder
+
+**Fullstack:** [onchain-stripe](https://github.com/tymna/onchain-stripe) ([live](https://onchain-stripe.vercel.app)) — USDC subscriptions on Base, indexer → API → dashboard · [Jar](https://github.com/tymna/jar) — savings jars, factory contracts + Ponder indexer · [Private DEX on Aztec](https://github.com/tymna/private-dex-app) — AMM with private traders
+
+**Contracts:** [DeFi Station](https://github.com/tymna/defi-station) — ERC-4626 vault + GMX v2 strategy · [NFT Marketplace](https://github.com/tymna/optimized-nft-marketplace) — inline assembly · [DEX](https://github.com/tymna/dex) — singleton AMM, ERC-1155 LP · [ZK Mixer](https://github.com/tymna/zk-mixer) — Tornado-style, Noir
