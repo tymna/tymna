@@ -7,3 +7,5 @@
 **Contracts:** [DeFi Station](https://github.com/tymna/defi-station) — ERC-4626 vault + GMX v2 strategy · [NFT Marketplace](https://github.com/tymna/optimized-nft-marketplace) — inline assembly · [DEX](https://github.com/tymna/dex) — singleton AMM, ERC-1155 LP · [ZK Mixer](https://github.com/tymna/zk-mixer) — Tornado-style, Noir
 
 **Notes:** [study notes](https://github.com/tymna/notes) — Uniswap, DeFi, EVM, ZK, Aztec, Solana, testing
+
+**Notes:** [notes](https://github.com/tymna/notes) — study notes on Uniswap V2–V4, DeFi, EVM, ZK/Aztec, Solana, testing (Obsidian + Excalidraw)
